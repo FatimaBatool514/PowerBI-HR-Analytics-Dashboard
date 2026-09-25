@@ -4,10 +4,12 @@ HR Analytics Dashboard | Power BI
 Analyzed 1470 employees data to identify attrition patterns and help HR take data-driven retention decisions.
 
 🔍 Key Insights
-- Overall Attrition Rate: 16.12%
-- High attrition in Sales & employees working Overtime
-- Young employees (25-35) with low job satisfaction are high-risk
-- Work-Life Balance and Salary are key factors
+- 16.12% attrition (237 out of 1470 left)
+- Male attrition 63% (150) > Female 36% (87)
+- R&D dept highest attrition (~133), Sales ~92
+- Age 18-29 (91) & 30-39 (89) = 76% of all leavers
+- High salary employees (16K-19K) also leaving
+- Avg tenure is only 7.01 years
 
 🛠️ Tools Used
 - Power BI Desktop
@@ -20,7 +22,7 @@ Analyzed 1470 employees data to identify attrition patterns and help HR take dat
 - HR Analytics Dashboard.png - Dashboard preview
 
 🔗 Live Dashboard
-View Live: [Paste your novy.pro link here after you upload]
+View Live: https://excited-topaz-5c6.notion.site/Fatima-Batool-Portfolio-3e6c68d81f31805c8c78d24d1af088f0?source=copy_link
 
 👤 Author
 Fatima Batool - Fresher\ Actively seeking opportunities. Passionate about learning and applying data analytics skills.
