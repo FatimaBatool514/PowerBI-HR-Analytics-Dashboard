@@ -22,7 +22,7 @@ Analyzed 1470 employees data to identify attrition patterns and help HR take dat
 - HR Analytics Dashboard.png - Dashboard preview
 
 🔗 Live Dashboard
-View Live: https://excited-topaz-5c6.notion.site/Fatima-Batool-Portfolio-3e6c68d81f31805c8c78d24d1af088f0?source=copy_link
+View Live: https://excited-topaz-5c6.notion.site/HR-Analytics-Dashboard-3f6c68d81f31804f811df6655e4f8a96?source=copy_link
 
 👤 Author
 Fatima Batool - Fresher\ Actively seeking opportunities. Passionate about learning and applying data analytics skills.
